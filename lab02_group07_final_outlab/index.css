@@ -1,0 +1,98 @@
+#mainTable tr td{
+	border-width: 2px;
+}
+
+#mainTable{
+	width: 60%;
+	margin: auto;
+}
+
+td{
+	text-align: center;
+	vertical-align: middle;
+}
+
+#nameRow, #rollRow{
+	height: 10%;
+}
+
+h1{
+	text-align: center;
+}
+
+#tagLine{
+	text-align: center;
+	font-weight: bold;
+}
+
+body{
+	background-color: #F0F0F0;
+}
+.navBar{
+	list-style-type: none;
+	background-color: #242324;
+	margin-top: -10px;
+	margin-left: -10px;
+	overflow: hidden;
+	display: inline-block;
+	width:100%;
+}
+
+.navBar li{
+	float: left;
+	margin-left: 15px;
+	margin-right: 15px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	width : 10%;
+}
+
+.navBar a{
+	display: block;
+	width: 200px;
+	text-decoration: none;
+	text-align: center;
+	font-size: 22px;
+	color : #FFFFFF;
+}
+
+.navBar a:hover{
+	color : #9B9A9B;
+}
+#footer{
+	
+	font-size: 30px;
+}
+#contact a:hover{
+	background-color: #89C189;
+}
+#namerow td {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+#Footer_index{
+	margin-bottom: 10px;
+	width: 20%;
+	margin: auto;
+	margin-top: 5%;
+	bottom: 10%;
+	
+} 
+#profile{
+	font-family: 'Helvetica';
+	margin-top:6%;
+}
+
+#img_about{
+	float:left;
+	
+}
+
+#toptitle{
+	margin-top:4%;
+	margin-left:4%;
+	float:center;
+}
+#content{
+	margin-left:6%;
+}

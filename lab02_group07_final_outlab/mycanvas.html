@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Canvas</title>
+	<link rel="stylesheet" type="text/css" href="index.css">
+</head>
+<body>
+	<center>
+		<ul class="navBar">
+			<li><a href="index.html">Home</a></li>
+			<li><a href="aboutMe.html">About me</a></li>
+			<li><a href="group.html">CS 251</a></li>
+			<li><a href="mycanvas.html">Canvas Art</a></li>
+			<li><a href="sac.html">SAC Map</a></li>
+			<li><a href="contactMe.html">Contact Me</a></li>
+		</ul>
+		<canvas height="500" width="1200" id="canvas_key">
+			Your browser doesn't support canvas. Update it or use another.
+		</canvas>
+		<button id="button1" onclick="play();" style="width:220px; height:50px; font-size:15px;">Learn a life lessson! Click me!</button>
+	</center>
+</body>
+
+<script>
+var start = 0;
+var ctx = document.getElementById("canvas_key").getContext("2d");
+var H = 500;
+var W = 600;
+var keyColor = "yellow";
+var keyWidth = 30;
+var columnWidth = 20;
+var lockRectWidth = 200;
+var lockRectHeight = 100;
+var lockColor = "yellow";
+var lockHoleColor = "purple";
+var lockStart = W + 100;
+ctx.font="20px Georgia";
+var open = 0;
+
+function draw(){
+	ctx.clearRect(0, 0, 2*W, H);
+
+	//1st column
+	ctx.beginPath();
+	ctx.rect(start + 5*W/6 - columnWidth*6, H/2 + 0.5*keyWidth, columnWidth, 1.3*keyWidth);
+	ctx.fillStyle = keyColor;
+	ctx.fill();
+	ctx.stroke();
+	ctx.closePath();
+
+
+	//2nd column
+	ctx.beginPath();
+	ctx.rect(start + 5*W/6 - columnWidth*5, H/2 + 0.5*keyWidth, columnWidth, 0.5*keyWidth);
+	ctx.fillStyle = keyColor;
+	ctx.fill();
+	ctx.stroke();
+	ctx.closePath();
+
+
+	//3rd column
+	ctx.beginPath();
+	ctx.rect(start + 5*W/6 - columnWidth*4, H/2 + 0.5*keyWidth, columnWidth, 1.2*keyWidth);
+	ctx.fillStyle = keyColor;
+	ctx.fill();
+	ctx.stroke();
+	ctx.closePath();
+
+
+	//4th column
+	ctx.beginPath();
+	ctx.rect(start + 5*W/6 - columnWidth*3, H/2 + 0.5*keyWidth, columnWidth, 0.6*keyWidth);
+	ctx.fillStyle = keyColor;
+	ctx.fill();
+	ctx.stroke();
+	ctx.closePath();
+
+
+	//5th column
+	ctx.beginPath();
+	ctx.rect(start + 5*W/6 - columnWidth*2, H/2 + 0.5*keyWidth, columnWidth, 1.6*keyWidth);
+	ctx.fillStyle = keyColor;
+	ctx.fill();
+	ctx.stroke();
+	ctx.closePath();
+
+	//key body
+	ctx.beginPath();
+	ctx.rect(start + W/3, H/2 - keyWidth/2, W/2, keyWidth);
+	ctx.fillStyle = keyColor;
+	ctx.fill();
+	ctx.stroke();
+	ctx.closePath();
+
+	//big ring
+	ctx.beginPath();
+	ctx.arc(start + W/3, H/2, 60, Math.PI/2, 3*Math.PI/2);
+	ctx.fillStyle = keyColor;
+	ctx.fill();
+	ctx.stroke();
+	ctx.closePath();
+
+	//small hole
+	ctx.beginPath();
+	ctx.arc(start + W/3 - 15, H/2, 30, Math.PI/2, 3*Math.PI/2);
+	ctx.fillStyle = "white";
+	ctx.fill();
+	ctx.stroke();
+	ctx.closePath();
+
+	//big ring line
+	ctx.beginPath();
+	ctx.moveTo(start + W/3, H/2 - 60);
+	ctx.lineTo(start + W/3, H/2 + 60);
+	ctx.stroke();
+	ctx.closePath();
+
+	//small hole line
+	ctx.beginPath();
+	ctx.moveTo(start + W/3 - 15, H/2 - 30);
+	ctx.lineTo(start + W/3 - 15, H/2 + 30);
+	ctx.stroke();
+	ctx.closePath();
+
+	ctx.fillStyle = "black";	
+	ctx.fillText("HARD WORK", start + W/2 ,H/2 + 5);
+
+	//lock begins
+	
+	//lock rect
+	ctx.beginPath();
+	ctx.rect(lockStart, H/2 - lockRectHeight/2, lockRectWidth, lockRectHeight);
+	ctx.fillStyle = lockColor;
+	ctx.fill();
+	ctx.stroke();
+	ctx.closePath();
+
+	//lock upper big arc
+	ctx.beginPath();
+	ctx.arc(lockStart + lockRectWidth/2 , H/2 - lockRectHeight/2 - open, lockRectWidth/2, Math.PI, 2*Math.PI);
+	ctx.fillStyle = keyColor;
+	ctx.fill();
+	ctx.stroke();
+	ctx.closePath();
+
+	//lock upper small arc
+	ctx.beginPath();
+	ctx.arc(lockStart + lockRectWidth/2 , H/2 - lockRectHeight/2 - open, lockRectWidth*0.35, Math.PI, 2*Math.PI);
+	ctx.fillStyle = "white";
+	ctx.fill();
+	ctx.stroke();
+	ctx.closePath();
+
+	//lock body hole rect
+	ctx.beginPath();
+	ctx.rect(lockStart + lockRectWidth/2 - 5, H/2, 10, lockRectHeight/2);
+	ctx.fillStyle = lockHoleColor;
+	ctx.fill();
+	ctx.stroke();
+	ctx.closePath();
+
+	//lock body hole circle
+	ctx.beginPath();
+	ctx.arc(lockStart + lockRectWidth/2 , H/2, 10, 0, 2*Math.PI);
+	ctx.fillStyle = "purple";
+	ctx.fill();
+	ctx.stroke();
+	ctx.closePath();
+
+
+	ctx.fillStyle = "black";
+	ctx.fillText("SUCCESS", 50+lockStart ,H/2 - 20);
+}
+
+function play() {
+	var watch = setInterval(function(){
+		start++;
+		if(start + W/2 + W/3 > lockStart+10){
+			open = 15;
+			draw();
+			clearInterval(watch);
+			alert("Hard work is the key to success");
+			start = 0;
+			open = 0;
+		}
+			draw();
+	}, 2);
+}
+
+draw();
+</script>
+</html>

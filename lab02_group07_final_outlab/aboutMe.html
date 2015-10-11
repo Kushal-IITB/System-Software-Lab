@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="index.css">
+	<title> About Me </title>
+</head>
+<body>
+	<center>
+	<ul class="navBar">
+		<li><a href="index.html">Home</a></li>
+		<li><a href="aboutMe.html">About me</a></li>
+		<li><a href="group.html">CS 251</a></li>
+		<li><a href="mycanvas.html">Canvas Art</a></li>
+		<li><a href="sac.html">SAC Map</a></li>
+		<li><a href="contactMe.html">Contact Me</a></li>
+	</ul>
+	</center>
+	<div id="profile">
+		<div id="img_about" align="center">
+			<img src="govind.png" width="40%" height="40%">
+		</div>
+		<div id="toptitle">
+			<font size="10">Govind Lahoti</font>
+		</div>
+		<div id="subtitle" style="margin-left:12%;">
+			Second Year Undergraduate,
+			<a href="http://www.cse.iitb.ac.in/" style="text-decoration:none; color: #747374">Department of Computer Science and Engineering</a>
+			,
+			<a href="http://www.iitb.ac.in/" style="text-decoration:none; color: #747374">Indian Institute of Technology Bombay</a>
+		</div>
+	</div>
+	<br>
+	<br>
+	<br>
+	<style>
+		#contentNavBar {
+			background-color: #111111;
+
+		}
+		#contentNavBar li{
+			width: 15%;
+		}
+	</style>
+	<div id="content">
+	<ul class="navBar" id="contentnavBar">
+		<li><a id="introLink" href="#" onclick="toggle('intro');">Intro</a></li>
+		<li><a id="interestsLink" href="#" onclick="toggle('interests');">Interests</a></li>
+		<li><a id="coursesUndertakenLink" href="#" onclick="toggle('coursesUndertaken');">Courses</a></li>
+		<li><a id="acadLink" href="#" onclick="toggle('acad');">Achievements</a></li>
+	</ul>
+			<div id="acad">
+			<ol>
+				<li><b>All India Rank 3</b> in JEE Advance 2014.</li>
+				<li>Recipient of the Prestigious <b>Aditya Birla Scholarship</b>.</li>
+				<li>All India Rank 110, State Rank 2 in JEE-Mains 2014</li>
+				<li><b>All India Rank 25</b> in KVPY(Kishore Vagyanik Protshan Yojana) Examintaion</li>
+				<li>Pursuing <b>Minors</b> in <b>Statistics</b></li>
+				<li>Recipient of <b>KVPY</b> fellowship.</li>
+				<li>Recipient of <b>NTSE</b> scholarship.</li>
+				<li>Award <b>AP Grade</b> for exceptional performance in Computer Programming and Utilisation course(CS 101)</li>
+				<li>Award <b>AP Grade</b> for exceptional performance in Physical Chemistry(CH 107)</li>
+			</ol>
+		</div>
+		<div id="intro">
+			<p>Govind Lahoti is a living legend of the age of <b>muggus</b>. He trained himself in these grounds of IIT Bombay.
+			He likes to write his biography in third  person because it is simply cool. He hails from the city of Indore but is currently living in Surat.
+			</p>
+		</div>
+		<div id="interests">
+			<ul>
+				<li>
+					<p>Mugging</p>
+				</li>
+				<li>
+					Playing
+					<a href="https://en.grepolis.com" style="text-decoration:none" style="color:black">Grepolis</a>
+				</li>
+				<li>
+					<p>Competitive Coding</p>
+				</li>
+				<li>
+					<p>Cycling</p>
+				</li>
+				<li>
+					<p>Badminton Enthu</p>
+				</li>
+				<li>
+					<p>Writing</p>
+				</li>
+
+			</ul>
+		</div>
+		<div id="coursesUndertaken">
+			<ul>
+				<li>
+					<p>Computer Utilization and Programming</p>
+				</li>
+				<li>
+					<p>Abstraction and Paradigm</p>
+				</li>
+				<li>
+					<p>Data Structure and Algorithms</p>
+				</li>
+				<li>
+					<p>Discrete Structures</p>
+				</li>
+				<li>
+					<p>Data Analysis and Interpretation</p>
+				</li>
+				<li>
+					<p>System Software Lab</p>
+				</li>
+				<li>
+					<p>Data Structure and Algorithms Lab</p>
+				</li>				
+			</ul>
+		</div>
+	</div>
+</body>
+<script>
+function toggle(id){
+    document.getElementById("intro").style.display = "none";
+    document.getElementById("coursesUndertaken").style.display= "none";
+    document.getElementById("interests").style.display = "none";
+    document.getElementById("acad").style.display = "none";
+    document.getElementById(id).style.display = "block";
+}
+toggle('intro');
+</script>
+</html>
