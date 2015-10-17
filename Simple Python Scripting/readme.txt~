@@ -1,0 +1,36 @@
+Group Number : 07 
+Group Name : Codiyapa
+
+Team Members :
+(Govind Lahoti, 140050020)
+(Kushal Babel, 140050022)
+(Amey Gupta, 140050026)
+
+I pledge on my honor, I have not used any unfair means nor provided any unauthorised assistance to any. -Govind Lahoti
+I pledge on my honor, I have not used any unfair means nor provided any unauthorised assistance to any. -Kushal Babel
+I pledge on my honor, I have not used any unfair means nor provided any unauthorised assistance to any. -Amey Gupta
+
+Percentage Contribution:
+	(Govind Lahoti, 140050020)	: 100%
+	(Kushal Babel, 140050022)	: 100%
+	(Amey Gupta, 140050026)		: 100%
+
+Observation in Q.1(k)
+We get an error if we try to push before pulling. The error says that remote repo is ahead of local repo, that is they are not in sync. (This situation may arise when remote repo gets modified after our last pull) So in order to prevent you from losing history, we are asked to pull those changes first, before pushing.
+
+Q.2
+Run the code as: python3 fetch_data.py <inputfile>
+The output file is sorted in increasing order
+
+Q.3
+Run the code as: python3 text_to_csv.py tenth.txt
+We have treated the "tenth.txt" as being sacred and created the cbseProcessed.csv in accordance with the "tenth.txt"
+The cbseProcessed.csv is different from the model output published by the instructor eg: There is no column named Addl. subject in the model output but we have created this column to be consistent with input text file
+As being CodeWarriors we have to be consistent with the data file given as input
+
+References :
+http://stackoverflow.com/questions/209840/map-two-lists-into-a-dictionary-in-python
+https://docs.python.org/3.5/
+http://www.tutorialspoint.com/python/string_lstrip.htm
+https://docs.python.org/2/library/re.html
+

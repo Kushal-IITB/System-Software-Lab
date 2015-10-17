@@ -1,0 +1,590 @@
+
+CBSE-SECONDARY SCHOOL EXAMINATION 2014          Region:CHENNAI                    Date: 26/05/2014    Pg: 1
+
+SCHOOL : 76013 KENDRIYA VIDYALAYA ADYAR CHENNAI TN   
+
+ROLL NO CANDIDATE NAME.................  SUB MRK  GRD  SUB MRK  GRD  SUB MRK  GRD  SUB MRK  GRD  SUB MRK  GRD  RSLT CGPA
+                    Part IA............  Part 2A..2C   Part 2D...................  Part 3A...... Part 3B...... ADDL.SUB
+
+4238764 MAHAD FAHEEM                     101 044  C2   002 018F E2   041 041  C2** 086 041  C2** 087 037  D    EIOP      
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 A  523 A  525 A  531 A  532 A  541 A  548 A            
+
+4241203 GAURI SONAR                      101 081  A2   122 084  A2   041 081  A2** 086 081  A2** 087 084  A2   QUAL  9.0 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 A  523 A  525 A  532 A  534 A  541 A  546 B            
+
+4241204 GOPESH KAMAL BAJRE               101 091  A1** 122 084  A2   041 094  A1   086 091  A1** 087 086  A2   QUAL  9.6 
+                    511 A  512 A  513 A  514 B  515 A  521 A  522 A  523 A  525 A  532 A  534 B  541 A  546 B            
+
+4241205 MIHIR DATE                       101 091  A1** 122 096  A1   041 091  A1   086 092  A1   087 092  A1   QUAL 10.0 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 A  523 A  525 A  532 A  534 A  541 A  546 A            
+
+4241206 RAJASI AHUJA                     101 091  A1** 002 093  A1   041 097  A1   086 093  A1   087 097  A1   QUAL 10.0 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 A  523 A  525 A  532 A  534 A  541 A  546 A            
+
+4241207 RISHABH GAWAI                    101 069  B2   002 066  B2   041 061  B2** 086 061  B2** 087 064  B2   QUAL  7.0 
+                    511 A  512 A  513 A  514 A  515 A  521 B  522 A  523 B  525 A  532 A  534 A  541 B  546 A            
+
+4241208 ANKUR DESHMUKH                   101 091  A1** 122 094  A1   041 099  A1   086 092  A1   087 095  A1   QUAL 10.0 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 B  523 A  525 A  532 A  534 A  541 A  546 B            
+
+4241209 ANUSHA P RAWAT                   101 063  B2   122 068  B2   041 051  C1** 086 061  B2** 087 065  B2   QUAL  6.8 
+                    511 B  512 A  513 A  514 A  515 A  521 A  522 B  523 A  525 A  532 A  534 B  541 B  546 A            
+
+4241210 ASHESH PATRA                     101 091  A1   002 091  A1** 041 091  A1   086 085  A2   087 091  A1** QUAL  9.8 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 B  523 B  525 A  532 A  534 A  541 B  546 A            
+
+4241211 AAYUSH SHARMA                    101 084  A2   002 084  A2   041 081  A2** 086 081  A2** 087 088  A2   QUAL  9.0 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 A  523 A  525 A  532 A  534 A  541 A  546 A            
+
+4241212 ISHPINDER MONGA                  101 081  A2** 002 084  A2   041 090  A2   086 081  A2** 087 083  A2   QUAL  9.0 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 A  523 A  525 A  532 A  534 A  541 A  546 A            
+
+4241213 MEGHNA PRIYA                     101 091  A1   002 096  A1   041 091  A1** 086 091  A1** 087 091  A1   QUAL 10.0 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 A  523 A  525 A  532 A  534 A  541 A  546 A            
+
+4241214 ROHIT RAMESH KUMAR               101 057  C1   002 051  C1   041 051  C1** 086 051  C1** 087 059  C1   QUAL  6.0 
+                    511 B  512 A  513 A  514 A  515 A  521 A  522 A  523 B  525 A  532 A  534 A  541 A  546 A            
+
+4241215 SHIVANI SHEKHAR                  101 093  A1   122 096  A1   041 096  A1   086 096  A1   087 094  A1   QUAL 10.0 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 A  523 A  525 A  532 A  534 A  541 A  546 A            
+
+4241216 SIMRAN MARY VARGHESE             101 078  B1   122 088  A2   041 071  B1** 086 071  B1** 087 072  B1   QUAL  8.2 
+                    511 A  512 A  513 A  514 B  515 A  521 B  522 A  523 A  525 A  532 A  534 A  541 A  546 B            
+
+4241217 SPARSH MAURYA                    101 091  A1** 122 091  A1   041 098  A1   086 092  A1   087 093  A1   QUAL 10.0 
+                    511 A  512 A  513 A  514 B  515 A  521 A  522 B  523 A  525 A  532 A  534 A  541 B  546 A            
+
+4241218 M K SRINIVAS SANTOSH KUMAR       101 091  A1** 122 085  A2   041 095  A1   086 091  A1** 087 086  A2   QUAL  9.6 
+                    511 A  512 A  513 A  514 B  515 A  521 A  522 B  523 A  525 A  532 A  534 A  541 B  546 A            
+
+4241219 STUTI AHLAWAT                    101 091  A1** 122 095  A1   041 099  A1   086 097  A1   087 096  A1   QUAL 10.0 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 B  523 A  525 A  532 A  534 A  541 B  546 A            
+
+4241220 TUNISHA SINGH                    101 081  A2** 002 087  A2   041 082  A2   086 081  A2** 087 087  A2   QUAL  9.0 
+                    511 A  512 A  513 A  514 B  515 A  521 A  522 B  523 A  525 A  532 A  534 A  541 B  546 A            
+
+4241221 ADITYA DINESH SHINDE             101 073  B1   122 077  B1   041 081  A2** 086 071  B1** 087 084  A2   QUAL  8.4 
+                    511 A  512 A  513 A  514 B  515 B  521 A  522 B  523 B  525 A  532 A  534 B  541 B  546 A            
+
+4241222 AKSHAY KRISHNA KORGAONKAR        101 068  B2   002 066  B2   041 051  C1** 086 051  C1** 087 067  B2   QUAL  6.6 
+                    511 B  512 A  513 A  514 B  515 B  521 A  522 B  523 B  525 A  532 A  534 A  541 B  546 A            
+
+4241223 SHIVANI JADHAV                   101 091  A1   002 094  A1   041 094  A1   086 093  A1   087 091  A1   QUAL 10.0 
+                    511 A  512 A  513 A  514 B  515 B  521 A  522 B  523 A  525 A  532 A  534 A  541 B  546 B            
+
+CBSE-SECONDARY SCHOOL EXAMINATION 2014          Region:CHENNAI                    Date: 26/05/2014    Pg: 2
+
+SCHOOL : 76013 KENDRIYA VIDYALAYA ADYAR CHENNAI TN   
+
+ROLL NO CANDIDATE NAME.................  SUB MRK  GRD  SUB MRK  GRD  SUB MRK  GRD  SUB MRK  GRD  SUB MRK  GRD  RSLT CGPA
+                    Part IA............  Part 2A..2C   Part 2D...................  Part 3A...... Part 3B...... ADDL.SUB
+
+4241224 ANWESHA PANDA                    101 083  A2   002 092  A1   041 092  A1   086 091  A1** 087 091  A1** QUAL  9.8 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 A  523 A  525 A  532 A  534 A  541 B  546 A            
+
+4241225 NITHIN PREMARAJAN                101 091  A1** 002 088  A2   041 087  A2   086 091  A1** 087 085  A2   QUAL  9.4 
+                    511 A  512 A  513 A  514 A  515 B  521 A  522 A  523 A  525 A  532 A  534 A  541 B  546 A            
+
+4241227 PRATIKSHA GADE                   101 091  A1** 122 095  A1   041 087  A2   086 081  A2** 087 087  A2   QUAL  9.4 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 B  523 A  525 A  532 A  534 A  541 B  546 A            
+
+4241228 REVATHY R                        101 091  A1** 122 097  A1   041 095  A1   086 092  A1   087 093  A1   QUAL 10.0 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 B  523 A  525 A  532 A  534 A  541 B  546 A            
+
+4241229 SHANTNU PATIL                    101 091  A1   122 097  A1   041 099  A1   086 097  A1   087 094  A1   QUAL 10.0 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 A  523 A  525 A  532 A  534 A  541 A  546 A            
+
+4241230 KROVVIDI SURYA PRANITH           101 081  A2** 002 081  A2   041 088  A2   086 081  A2** 087 084  A2   QUAL  9.0 
+                    511 A  512 A  513 A  514 B  515 B  521 B  522 B  523 A  525 A  532 A  534 A  541 B  546 A            
+
+4241231 TANISHKA KHATRI                  101 091  A1** 122 098  A1   041 097  A1   086 094  A1   087 094  A1   QUAL 10.0 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 B  523 A  525 A  532 A  534 A  541 B  546 B            
+
+4241232 THOMAS JOHN                      101 073  B1   122 076  B1   041 061  B2** 086 071  B1** 087 075  B1   QUAL  7.8 
+                    511 A  512 A  513 A  514 B  515 B  521 A  522 B  523 A  525 A  532 A  534 B  541 B  546 A            
+
+4241233 C R RAJA VIGNESH                 101 091  A1** 002 092  A1   041 097  A1   086 093  A1   087 091  A1** QUAL 10.0 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 B  523 B  525 A  532 A  534 A  541 B  546 A            
+
+4241234 IVANSHI RATHOD                   101 075  B1   002 080  B1   041 061  B2** 086 071  B1** 087 075  B1   QUAL  7.8 
+                    511 B  512 A  513 A  514 B  515 B  521 A  522 B  523 A  525 A  532 A  534 A  541 B  546 A            
+
+4241235 R SHASHANK                       101 079  B1   122 087  A2   041 071  B1** 086 071  B1** 087 076  B1   QUAL  8.2 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 B  523 A  525 A  532 A  534 A  541 A  546 A            
+
+4241236 DIPEN R GUPTA                    101 091  A1   122 091  A1   041 096  A1   086 091  A1   087 091  A1** QUAL 10.0 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 B  523 A  525 A  532 A  534 A  541 B  546 A            
+
+4241237 SHUBHAM SINGH                    101 073  B1   002 082  A2   041 061  B2** 086 071  B1** 087 072  B1   QUAL  8.0 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 A  523 B  525 A  532 A  534 A  541 B  546 A            
+
+4241238 VISHAL CHANDRAHAAS VELAGANDULA   101 091  A1** 122 093  A1   041 097  A1   086 096  A1   087 092  A1   QUAL 10.0 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 B  523 A  525 A  532 A  534 A  541 B  546 B            
+
+4241239 B ARJUN                          101 093  A1   002 098  A1   041 100  A1   086 096  A1   087 097  A1   QUAL 10.0 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 B  523 A  525 A  532 A  534 A  541 B  546 A            
+
+4241240 YASH                             101 073  B1   002 081  A2** 041 089  A2   086 081  A2** 087 075  B1   QUAL  8.6 
+                    511 A  512 A  513 A  514 B  515 A  521 A  522 A  523 A  525 A  532 B  534 A  541 B  546 A            
+
+4241241 AAFREEN RAUT                     101 071  B1** 122 077  B1   041 061  B2** 086 072  B1   087 073  B1   QUAL  7.8 
+                    511 B  512 A  513 A  514 A  515 A  521 B  522 A  523 B  525 A  532 A  534 A  541 A  546 B            
+
+4241242 AJINKYA PRAVIN ADHAV             101 081  A2** 122 081  A2** 041 074  B1   086 071  B1   087 072  B1   QUAL  8.4 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 A  523 B  525 A  532 A  534 A  541 A  546 A            
+
+4241243 AKASH A LOKHANDE                 101 057  C1   122 072  B1   041 051  C1** 086 051  C1** 087 058  C1   QUAL  6.4 
+                    511 B  512 B  513 B  514 B  515 B  521 B  522 A  523 C  525 B  532 B  534 C  541 A  546 A            
+
+4241244 ANUSHA KUMBHAR                   101 092  A1   122 095  A1   041 091  A1** 086 091  A1** 087 097  A1   QUAL 10.0 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 B  523 A  525 A  532 A  534 A  541 B  546 A            
+
+4241245 ARVIND RAVI BHALLAMUDI           101 091  A1** 122 091  A1** 041 085  A2   086 086  A2   087 094  A1   QUAL  9.6 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 A  523 B  525 A  532 A  534 A  541 A  546 A            
+
+4241246 DEVESH P SAWANT                  101 071  B1   122 080  B1   041 071  B1** 086 072  B1   087 061  B2** QUAL  7.8 
+                    511 B  512 A  513 A  514 A  515 A  521 A  522 A  523 B  525 A  532 A  534 A  541 A  546 A            
+
+CBSE-SECONDARY SCHOOL EXAMINATION 2014          Region:CHENNAI                    Date: 26/05/2014    Pg: 3
+
+SCHOOL : 76013 KENDRIYA VIDYALAYA ADYAR CHENNAI TN   
+
+ROLL NO CANDIDATE NAME.................  SUB MRK  GRD  SUB MRK  GRD  SUB MRK  GRD  SUB MRK  GRD  SUB MRK  GRD  RSLT CGPA
+                    Part IA............  Part 2A..2C   Part 2D...................  Part 3A...... Part 3B...... ADDL.SUB
+
+4241247 DIKSHA ANIL JADHAV               101 073  B1   002 085  A2   041 081  A2   086 081  A2** 087 081  A2** QUAL  8.8 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 A  523 A  525 A  532 A  534 A  541 A  546 B            
+
+4241248 E M V NAGA KARTHIK               101 091  A1   122 095  A1   041 096  A1   086 091  A1** 087 095  A1   QUAL 10.0 
+                    511 A  512 A  513 A  514 A  515 B  521 A  522 A  523 A  525 A  532 A  534 A  541 A  546 A            
+
+4241249 MAITREYA BALVANT PAWAR           101 081  A2** 002 089  A2   041 073  B1   086 081  A2** 087 092  A1   QUAL  9.0 
+                    511 A  512 A  513 A  514 A  515 B  521 A  522 A  523 A  525 A  532 A  534 A  541 A  546 A            
+
+4241250 MERYL MARY THOMAS                101 096  A1   002 091  A1** 041 091  A1** 086 092  A1   087 097  A1   QUAL 10.0 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 A  523 A  525 A  532 A  534 A  541 A  546 A            
+
+4241251 NIKITA ENGOLE                    101 074  B1   002 075  B1   041 071  B1** 086 071  B1** 087 073  B1   QUAL  8.0 
+                    511 B  512 A  513 A  514 A  515 A  521 A  522 B  523 B  525 A  532 A  534 A  541 A  546 A            
+
+4241252 NIKITA SUBHASH PAWAR             101 070  B2   002 079  B1   041 061  B2** 086 061  B2** 087 055  C1   QUAL  7.0 
+                    511 B  512 A  513 A  514 A  515 A  521 A  522 A  523 B  525 A  532 A  534 A  541 A  546 A            
+
+4241253 POOJA C BHOSLE                   101 058  C1   002 059  C1   041 042  C2   086 051  C1** 087 051  C1** QUAL  5.8 
+                    511 B  512 A  513 A  514 A  515 A  521 A  522 B  523 B  525 A  532 B  534 A  541 B  546 A            
+
+4241254 PREETI N PRABHU                  101 091  A1** 122 098  A1   041 093  A1   086 091  A1** 087 093  A1   QUAL 10.0 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 A  523 A  525 A  532 A  534 A  541 A  546 A            
+
+4241255 ROSHAN MATHEW TOM                101 092  A1   122 091  A1   041 098  A1   086 092  A1   087 095  A1   QUAL 10.0 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 A  523 B  525 A  532 A  534 A  541 A  546 B            
+
+4241256 SHASHANK CHANDRASEKARAN          101 085  A2   122 084  A2   041 091  A1** 086 091  A1** 087 086  A2   QUAL  9.4 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 A  523 A  525 A  532 A  534 A  541 A  546 A            
+
+4241257 SONALEE SAHU                     101 081  A2** 002 091  A1** 041 086  A2   086 083  A2   087 087  A2   QUAL  9.2 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 A  523 A  525 A  532 A  534 A  541 A  546 A            
+
+4241258 ACHRAJ SARMA                     101 095  A1   122 097  A1   041 099  A1   086 097  A1   087 097  A1   QUAL 10.0 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 A  523 A  525 A  532 A  534 A  541 A  546 A            
+
+4241259 AKASH YADAV                      101 061  B2** 002 064  B2   041 052  C1   086 051  C1   087 061  B2** QUAL  6.6 
+                    511 B  512 A  513 B  514 A  515 A  521 A  522 A  523 B  525 A  532 B  534 A  541 A  546 A            
+
+4241260 ANIRUDDHA D SHRIKHANDE           101 083  A2   122 095  A1   041 094  A1   086 091  A1** 087 091  A1** QUAL  9.8 
+                    511 A  512 A  513 A  514 A  515 B  521 A  522 A  523 B  525 A  532 A  534 A  541 A  546 A            
+
+4241261 DIVYA SINGH                      101 091  A1** 122 091  A1   041 094  A1   086 091  A1   087 094  A1   QUAL 10.0 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 A  523 A  525 A  532 A  534 A  541 A  546 A            
+
+4241262 NIKITA CHAUHAN                   101 081  A2** 002 089  A2   041 083  A2   086 086  A2   087 081  A2** QUAL  9.0 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 B  523 A  525 A  532 A  534 A  541 A  546 A            
+
+4241263 PIYUSHA GUPTA                    101 091  A1** 122 092  A1   041 092  A1   086 091  A1** 087 094  A1   QUAL 10.0 
+                    511 A  512 A  513 A  514 A  515 A  521 B  522 B  523 A  525 A  532 A  534 A  541 B  546 B            
+
+4241264 SAKSHI SINGH                     101 081  A2** 002 091  A1   041 081  A2** 086 085  A2   087 083  A2   QUAL  9.2 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 A  523 B  525 A  532 A  534 A  541 A  546 A            
+
+4241265 SHUBHAM MALIK                    101 067  B2   002 071  B1** 041 085  A2   086 071  B1** 087 063  B2   QUAL  7.8 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 B  523 B  525 A  532 B  534 A  541 A  546 A            
+
+4241266 ABHISHEK PAWAN SHARMA            101 093  A1   122 097  A1   041 099  A1   086 097  A1   087 095  A1   QUAL 10.0 
+                    511 A  512 A  513 A  514 A  515 B  521 A  522 A  523 A  525 A  532 A  534 A  541 A  546 A            
+
+4241267 KHYATI L PATEL                   101 070  B2   002 074  B1   041 056  C1   086 061  B2** 087 051  C1** QUAL  6.8 
+                    511 B  512 A  513 A  514 A  515 A  521 A  522 B  523 B  525 A  532 A  534 A  541 B  546 A            
+
+4241268 ADILAGNA DAS                     101 091  A1** 122 095  A1   041 091  A1** 086 093  A1   087 094  A1   QUAL 10.0 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 A  523 A  525 A  532 A  534 A  541 A  546 A            
+
+CBSE-SECONDARY SCHOOL EXAMINATION 2014          Region:CHENNAI                    Date: 26/05/2014    Pg: 4
+
+SCHOOL : 76013 KENDRIYA VIDYALAYA ADYAR CHENNAI TN   
+
+ROLL NO CANDIDATE NAME.................  SUB MRK  GRD  SUB MRK  GRD  SUB MRK  GRD  SUB MRK  GRD  SUB MRK  GRD  RSLT CGPA
+                    Part IA............  Part 2A..2C   Part 2D...................  Part 3A...... Part 3B...... ADDL.SUB
+
+4241269 ANIKET JANRAO                    101 081  A2** 002 085  A2   041 093  A1   086 082  A2   087 091  A1** QUAL  9.4 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 B  523 A  525 A  532 A  534 A  541 A  546 A            
+
+4241270 ANUKOOL SRIVASTAVA               101 091  A1   122 092  A1   041 092  A1   086 091  A1** 087 092  A1   QUAL 10.0 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 A  523 A  525 A  532 A  534 A  541 A  546 A            
+
+4241271 SHAIKH ASAD FAIYAZ               101 071  B1   002 076  B1   041 061  B2** 086 061  B2   087 071  B1** QUAL  7.6 
+                    511 B  512 A  513 B  514 A  515 B  521 A  522 C  523 B  525 A  532 A  534 A  541 B  546 A            
+
+4241272 PRADNYA SUBHASH HIWALE           101 061  B2** 122 072  B1   041 051  C1** 086 052  C1   087 055  C1   QUAL  6.6 
+                    511 B  512 B  513 B  514 A  515 A  521 A  522 B  523 A  525 A  532 A  534 A  541 C  546 A            
+
+4241273 RITU KAILASH PRASAD              101 071  B1   002 071  B1   041 051  C1** 086 051  C1** 087 061  B2   QUAL  7.0 
+                    511 B  512 B  513 B  514 A  515 A  521 A  522 A  523 A  525 A  532 B  534 A  541 B  546 A            
+
+4241274 ROHAN SHARMA                     101 077  B1   002 072  B1   041 071  B1** 086 071  B1** 087 071  B1   QUAL  8.0 
+                    511 B  512 A  513 A  514 A  515 A  521 A  522 B  523 B  525 A  532 A  534 A  541 B  546 A            
+
+4241275 SHOUMI MUKHERJEE                 101 081  A2   002 087  A2   041 081  A2** 086 081  A2** 087 090  A2   QUAL  9.0 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 A  523 B  525 A  532 A  534 A  541 A  546 A            
+
+4241276 CHIVUKULA VARUN                  101 083  A2   002 085  A2   041 094  A1   086 091  A1** 087 091  A1** QUAL  9.6 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 A  523 A  525 A  532 A  534 A  541 A  546 A            
+
+4241277 SATADRU BHATTACHARYA             101 055  C1   002 051  C1** 041 052  C1   086 051  C1** 087 053  C1   QUAL  6.0 
+                    511 B  512 A  513 B  514 B  515 A  521 A  522 B  523 B  525 A  532 B  534 B  541 C  546 B            
+
+4241278 SUYASH SHRIVASTAVA               101 067  B2   122 082  A2   041 069  B2   086 061  B2** 087 061  B2** QUAL  7.4 
+                    511 B  512 A  513 A  514 A  515 A  521 A  522 A  523 B  525 A  532 B  534 A  541 A  546 A            
+
+4241279 MOMIN SHIFA FATIMA               101 082  A2   002 074  B1   041 051  C1** 086 061  B2   087 071  B1** QUAL  7.6 
+                    511 B  512 A  513 A  514 A  515 A  521 A  522 B  523 A  525 A  532 B  534 A  541 B  546 A            
+
+4241280 NIKHIL TETALI                    101 093  A1   002 091  A1** 041 091  A1   086 091  A1   087 096  A1   QUAL 10.0 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 B  523 A  525 A  532 A  534 A  541 B  546 A            
+
+4241281 ANANYA PULLABHATLA               101 095  A1   002 095  A1   041 091  A1   086 091  A1** 087 098  A1   QUAL 10.0 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 B  523 A  525 A  532 A  534 A  541 B  546 A            
+
+4241282 AKSHAY BALU PAWAR                101 050  C2   122 059  C1   041 041  C2** 086 036  D    087 041  C2** QUAL  5.0 
+                    511 B  512 B  513 A  514 B  515 A  521 A  522 A  523 B  525 A  532 B  534 B  541 B  546 B            
+
+4241283 AKSHAY RAMESH GOHIL              101 063  B2   002 066  B2   041 051  C1** 086 061  B2** 087 063  B2   QUAL  6.8 
+                    511 B  512 B  513 A  514 B  515 A  521 A  522 A  523 B  525 A  532 B  534 B  541 A  546 B            
+
+4241284 ATHIRA ANIL KUMAR                101 093  A1   122 100  A1   041 100  A1   086 095  A1   087 098  A1   QUAL 10.0 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 A  523 A  525 A  532 A  534 A  541 B  546 A            
+
+4241285 JAY S SOMAN                      101 091  A1** 122 091  A1** 041 087  A2   086 087  A2   087 093  A1   QUAL  9.6 
+                    511 A  512 A  513 A  514 B  515 A  521 A  522 A  523 A  525 A  532 A  534 A  541 A  546 A            
+
+4241286 MEGHA VENKATESH                  101 093  A1   122 091  A1** 041 095  A1   086 093  A1   087 091  A1** QUAL 10.0 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 A  523 A  525 A  532 A  534 A  541 A  546 A            
+
+4241287 MEGHDEEP JANA                    101 093  A1   122 094  A1   041 096  A1   086 094  A1   087 092  A1   QUAL 10.0 
+                    511 A  512 A  513 A  514 B  515 A  521 A  522 A  523 A  525 A  532 A  534 A  541 B  546 A            
+
+4241288 MITESH V SOLANKI                 101 049  C2   122 065  B2   041 041  C2** 086 041  C2** 087 041  C2   QUAL  5.4 
+                    511 B  512 B  513 B  514 B  515 A  521 A  522 A  523 B  525 A  532 B  534 B  541 B  546 B            
+
+4241289 NILESH KUMAR RAM                 101 061  B2** 002 063  B2   041 055  C1   086 060  C1   087 051  C1** QUAL  6.4 
+                    511 B  512 A  513 A  514 B  515 B  521 A  522 A  523 B  525 A  532 A  534 A  541 B  546 A            
+
+4241290 SIDHARTH KALIAPPAN               101 088  A2   122 081  A2** 041 084  A2   086 086  A2   087 081  A2** QUAL  9.0 
+                    511 A  512 A  513 A  514 A  515 B  521 A  522 A  523 A  525 A  532 A  534 B  541 B  546 A            
+
+CBSE-SECONDARY SCHOOL EXAMINATION 2014          Region:CHENNAI                    Date: 26/05/2014    Pg: 5
+
+SCHOOL : 76013 KENDRIYA VIDYALAYA ADYAR CHENNAI TN   
+
+ROLL NO CANDIDATE NAME.................  SUB MRK  GRD  SUB MRK  GRD  SUB MRK  GRD  SUB MRK  GRD  SUB MRK  GRD  RSLT CGPA
+                    Part IA............  Part 2A..2C   Part 2D...................  Part 3A...... Part 3B...... ADDL.SUB
+
+4241291 SUCHARITA DUTTAGUPTA             101 096  A1   122 100  A1   041 097  A1   086 097  A1   087 094  A1   QUAL 10.0 
+                    511 B  512 A  513 A  514 A  515 A  521 A  522 A  523 A  525 A  532 A  534 A  541 A  546 A            
+
+4241292 TEJASWINI P MUJUMDAR             101 077  B1   122 077  B1   041 053  C1   086 061  B2** 087 061  B2** QUAL  7.2 
+                    511 B  512 B  513 A  514 A  515 A  521 A  522 A  523 B  525 A  532 B  534 A  541 B  546 A            
+
+4241293 VARAD GURAV                      101 068  B2   122 074  B1   041 061  B2** 086 061  B2** 087 061  B2   QUAL  7.2 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 A  523 B  525 A  532 A  534 B  541 B  546 A            
+
+4241294 ADITI PUSHPRAJ DAHIWALE          101 075  B1   002 067  B2   041 051  C1** 086 061  B2** 087 064  B2   QUAL  7.0 
+                    511 A  512 A  513 A  514 B  515 A  521 A  522 A  523 A  525 A  532 A  534 A  541 B  546 A            
+
+4241295 BISWARUP PALODHI                 101 069  B2   002 075  B1   041 061  B2** 086 061  B2** 087 064  B2   QUAL  7.2 
+                    511 B  512 A  513 A  514 A  515 A  521 A  522 A  523 B  525 A  532 A  534 A  541 B  546 A            
+
+4241296 DINESH A MISAL                   101 057  C1   002 051  C1** 041 041  C2** 086 043  C2   087 048  C2   QUAL  5.4 
+                    511 B  512 B  513 A  514 B  515 B  521 A  522 A  523 B  525 A  532 B  534 B  541 B  546 A            
+
+4241297 GAUTAM SAHOO                     101 091  A1** 122 086  A2   041 093  A1   086 091  A1** 087 091  A1   QUAL  9.8 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 A  523 A  525 A  532 A  534 A  541 A  546 B            
+
+4241298 ROSHNI SINGH                     101 074  B1   002 084  A2   041 061  B2** 086 061  B2** 087 074  B1   QUAL  7.8 
+                    511 B  512 A  513 A  514 A  515 A  521 A  522 A  523 A  525 A  532 A  534 A  541 A  546 A            
+
+4241299 ROSHANI VERMA                    101 083  A2   002 081  A2   041 073  B1   086 071  B1** 087 071  B1** QUAL  8.4 
+                    511 A  512 A  513 A  514 B  515 A  521 A  522 A  523 B  525 A  532 A  534 A  541 B  546 A            
+
+4241300 SHUBHANKAR JADHAV                101 085  A2   122 081  A2** 041 096  A1   086 091  A1   087 081  A2** QUAL  9.4 
+                    511 A  512 A  513 A  514 B  515 A  521 A  522 A  523 A  525 A  532 B  534 A  541 B  546 A            
+
+4241301 SNEHA A GAIKWAD                  101 091  A1   002 091  A1   041 081  A2** 086 091  A1** 087 095  A1   QUAL  9.8 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 A  523 A  525 A  532 A  534 A  541 A  546 A            
+
+4241302 AKASH GAUTAM                     101 075  B1   002 082  A2   041 064  B2   086 071  B1** 087 071  B1** QUAL  8.0 
+                    511 A  512 A  513 A  514 B  515 B  521 A  522 A  523 B  525 A  532 A  534 A  541 B  546 A            
+
+4241303 ABHIDEV S NAIR                   101 070  B2   002 053  C1   041 051  C1** 086 061  B2** 087 051  C1   QUAL  6.4 
+                    511 A  512 A  513 B  514 B  515 B  521 A  522 A  523 A  525 A  532 B  534 B  541 A  546 A            
+
+4241304 APURVA PATANKAR                  101 075  B1   122 079  B1   041 061  B2** 086 073  B1   087 071  B1** QUAL  7.8 
+                    511 B  512 A  513 A  514 B  515 A  521 A  522 A  523 A  525 A  532 A  534 A  541 A  546 A            
+
+4241305 DIVYA R                          101 091  A1   122 096  A1   041 093  A1   086 092  A1   087 097  A1   QUAL 10.0 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 A  523 A  525 A  532 A  534 A  541 A  546 B            
+
+4241306 NANDINI SHRUTI                   101 093  A1   002 096  A1   041 091  A1** 086 091  A1** 087 093  A1   QUAL 10.0 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 A  523 A  525 A  532 A  534 A  541 A  546 A            
+
+4241307 PRATYUSH OZA                     101 078  B1   002 077  B1   041 071  B1** 086 071  B1** 087 073  B1   QUAL  8.0 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 A  523 B  525 A  532 A  534 A  541 A  546 A            
+
+4241308 AKHILESH R BHAT                  101 081  A2** 122 076  B1   041 071  B1** 086 077  B1   087 072  B1   QUAL  8.2 
+                    511 A  512 A  513 A  514 A  515 B  521 A  522 A  523 A  525 A  532 A  534 A  541 B  546 A            
+
+4241309 K DARSHAN                        101 072  B1   122 077  B1   041 071  B1** 086 072  B1   087 061  B2** QUAL  7.8 
+                    511 B  512 A  513 A  514 B  515 A  521 A  522 A  523 B  525 A  532 A  534 A  541 B  546 A            
+
+4241310 VIPPALA S S HARSHAVARDHAN REDDY  101 091  A1** 122 091  A1** 041 097  A1   086 093  A1   087 088  A2   QUAL  9.8 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 A  523 A  525 A  532 A  534 A  541 B  546 A            
+
+4241311 RAJITA DUBEY                     101 091  A1** 122 091  A1** 041 088  A2   086 084  A2   087 088  A2   QUAL  9.4 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 A  523 A  525 A  532 A  534 A  541 B  546 A            
+
+4241312 VIRINDA                          101 094  A1   002 092  A1   041 094  A1   086 091  A1   087 095  A1   QUAL 10.0 
+                    511 A  512 A  513 A  514 B  515 A  521 A  522 A  523 A  525 A  532 A  534 A  541 B  546 A            
+
+CBSE-SECONDARY SCHOOL EXAMINATION 2014          Region:CHENNAI                    Date: 26/05/2014    Pg: 6
+
+SCHOOL : 76013 KENDRIYA VIDYALAYA ADYAR CHENNAI TN   
+
+ROLL NO CANDIDATE NAME.................  SUB MRK  GRD  SUB MRK  GRD  SUB MRK  GRD  SUB MRK  GRD  SUB MRK  GRD  RSLT CGPA
+                    Part IA............  Part 2A..2C   Part 2D...................  Part 3A...... Part 3B...... ADDL.SUB
+
+4241313 PUJARI VANDITA REDDY             101 093  A1   002 093  A1   041 091  A1** 086 091  A1   087 093  A1   QUAL 10.0 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 A  523 A  525 A  532 A  534 A  541 A  546 A            
+
+4241314 DEVARAI PANKAJ                   101 086  A2   002 079  B1   041 061  B2** 086 071  B1** 087 077  B1   QUAL  8.0 
+                    511 A  512 A  513 A  514 B  515 A  521 A  522 A  523 B  525 A  532 A  534 A  541 A  546 A            
+
+4241315 BHATT SAGRIKA                    101 089  A2   002 081  A2   041 081  A2** 086 081  A2** 087 083  A2   QUAL  9.0 
+                    511 A  512 A  513 A  514 B  515 A  521 A  522 A  523 A  525 A  532 A  534 A  541 A  546 A            
+
+4241316 SONALI M PATEKAR                 101 091  A1** 002 091  A1   041 083  A2   086 081  A2** 087 084  A2   QUAL  9.4 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 A  523 B  525 A  532 A  534 A  541 B  546 A            
+
+4241317 KEERTHANA PRABHU                 101 091  A1   122 094  A1   041 092  A1   086 092  A1   087 094  A1   QUAL 10.0 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 A  523 A  525 A  532 A  534 A  541 B  546 A            
+
+4241318 AKASH KUMAR                      101 091  A1** 002 095  A1   041 091  A1** 086 087  A2   087 086  A2   QUAL  9.6 
+                    511 A  512 A  513 A  514 B  515 A  521 A  522 A  523 B  525 A  532 A  534 A  541 A  546 A            
+
+4241319 KAMAL KESWANI                    101 091  A1   002 096  A1   041 096  A1   086 094  A1   087 096  A1   QUAL 10.0 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 A  523 B  525 A  532 A  534 A  541 B  546 B            
+
+4241320 YASHAS JITENDRA JADHAV           101 086  A2   122 077  B1   041 083  A2   086 081  A2** 087 071  B1** QUAL  8.6 
+                    511 A  512 A  513 A  514 B  515 B  521 A  522 A  523 B  525 A  532 A  534 A  541 B  546 B            
+
+4241321 ABHINAV KASHYAP                  101 092  A1   122 091  A1** 041 095  A1   086 091  A1** 087 095  A1   QUAL 10.0 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 A  523 A  525 A  532 A  534 A  541 A  546 A            
+
+4241322 ARUSH GUPTA                      101 087  A2   122 091  A1** 041 094  A1   086 091  A1** 087 082  A2   QUAL  9.6 
+                    511 A  512 A  513 A  514 B  515 A  521 A  522 A  523 A  525 A  532 A  534 A  541 A  546 B            
+
+4241323 AVINASH V BIRARE                 101 051  C1** 122 060  C1   041 041  C2** 086 041  C2   087 063  B2   QUAL  5.8 
+                    511 B  512 B  513 A  514 A  515 B  521 A  522 A  523 B  525 A  532 B  534 A  541 B  546 B            
+
+4241324 ARTI VEDULA                      101 099  A1   122 098  A1   041 096  A1   086 097  A1   087 100  A1   QUAL 10.0 
+                    511 A  512 A  513 A  514 A  515 B  521 A  522 A  523 A  525 A  532 A  534 A  541 A  546 A            
+
+4241325 CHETAN M PARMAR                  101 045  C2   122 068  B2   041 041  C2** 086 041  C2   087 051  C1** QUAL  5.6 
+                    511 B  512 B  513 A  514 B  515 B  521 B  522 A  523 B  525 A  532 A  534 B  541 B  546 B            
+
+4241326 HEENA R SHIRGAONKAR              101 081  A2** 002 085  A2   041 077  B1   086 071  B1** 087 088  A2   QUAL  8.6 
+                    511 A  512 A  513 A  514 B  515 B  521 A  522 A  523 A  525 A  532 A  534 A  541 B  546 B            
+
+4241327 JEEN SHAJI                       101 095  A1   122 095  A1   041 100  A1   086 096  A1   087 097  A1   QUAL 10.0 
+                    511 A  512 A  513 A  514 A  515 B  521 A  522 A  523 A  525 A  532 A  534 A  541 A  546 A            
+
+4241328 KRISHNA GIRI                     101 081  A2** 122 084  A2   041 092  A1   086 082  A2   087 091  A1** QUAL  9.4 
+                    511 A  512 A  513 A  514 A  515 B  521 A  522 A  523 A  525 A  532 A  534 A  541 A  546 B            
+
+4241329 GAURI S MARATHE                  101 058  C1   122 070  B2   041 051  C1** 086 051  C1** 087 053  C1   QUAL  6.2 
+                    511 A  512 B  513 A  514 B  515 A  521 A  522 A  523 A  525 A  532 B  534 A  541 B  546 B            
+
+4241330 NISHA P NAIKODI                  101 063  B2   002 071  B1   041 051  C1** 086 061  B2** 087 066  B2   QUAL  7.0 
+                    511 A  512 A  513 A  514 A  515 B  521 A  522 A  523 A  525 A  532 A  534 A  541 A  546 A            
+
+4241331 NIKHIL CALVIN TOMY               101 088  A2   122 081  A2** 041 086  A2   086 074  B1   087 081  A2** QUAL  8.8 
+                    511 A  512 A  513 A  514 A  515 B  521 A  522 A  523 A  525 A  532 A  534 A  541 A  546 A            
+
+4241332 RUJUTA NAIK                      101 083  A2   122 081  A2   041 081  A2   086 071  B1** 087 091  A1** QUAL  9.0 
+                    511 A  512 A  513 A  514 B  515 A  521 A  522 A  523 A  525 A  532 A  534 A  541 B  546 A            
+
+4241333 KALE SAAKSHI                     101 095  A1   122 081  A2   041 081  A2** 086 085  A2   087 091  A1** QUAL  9.4 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 A  523 A  525 A  532 A  534 A  541 A  546 A            
+
+4241334 SIDDHARTH RAO DEB                101 092  A1   122 081  A2   041 081  A2   086 081  A2** 087 091  A1** QUAL  9.4 
+                    511 A  512 A  513 A  514 A  515 B  521 A  522 A  523 A  525 A  532 A  534 A  541 A  546 A            
+
+CBSE-SECONDARY SCHOOL EXAMINATION 2014          Region:CHENNAI                    Date: 26/05/2014    Pg: 7
+
+SCHOOL : 76013 KENDRIYA VIDYALAYA ADYAR CHENNAI TN   
+
+ROLL NO CANDIDATE NAME.................  SUB MRK  GRD  SUB MRK  GRD  SUB MRK  GRD  SUB MRK  GRD  SUB MRK  GRD  RSLT CGPA
+                    Part IA............  Part 2A..2C   Part 2D...................  Part 3A...... Part 3B...... ADDL.SUB
+
+4241335 SHWETA S GHOSALKAR               101 081  A2   002 085  A2   041 071  B1** 086 071  B1** 087 089  A2   QUAL  8.6 
+                    511 A  512 A  513 A  514 B  515 A  521 A  522 A  523 A  525 A  532 A  534 A  541 B  546 B            
+
+4241336 VISHAL S JANGALE                 101 071  B1** 122 071  B1** 041 061  B2   086 075  B1   087 083  A2   QUAL  8.0 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 A  523 B  525 A  532 A  534 A  541 B  546 B            
+
+4241337 FARHA SHAIKH SARWAR              101 055  C1   002 058  C1   041 051  C1** 086 051  C1** 087 052  C1   QUAL  6.0 
+                    511 B  512 B  513 A  514 B  515 A  521 B  522 A  523 B  525 A  532 B  534 A  541 B  546 B            
+
+4241338 AYUSH GANDHARVA                  101 072  B1   122 071  B1** 041 077  B1   086 071  B1** 087 071  B1   QUAL  8.0 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 A  523 A  525 A  532 A  534 A  541 A  546 A            
+
+4241339 AADESH KUMAR                     101 061  B2** 002 070  B2   041 051  C1** 086 054  C1   087 065  B2   QUAL  6.6 
+                    511 B  512 A  513 A  514 B  515 A  521 A  522 A  523 B  525 A  532 A  534 A  541 A  546 B            
+
+4241340 BHAGYASHREE UTTEKAR              101 064  B2   122 071  B1   041 051  C1** 086 061  B2** 087 068  B2   QUAL  7.0 
+                    511 B  512 B  513 A  514 A  515 A  521 A  522 A  523 A  525 A  532 A  534 A  541 A  546 B            
+
+4241341 MAYUR CHOUDHARY                  101 081  A2** 122 083  A2   041 095  A1   086 083  A2   087 091  A1** QUAL  9.4 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 A  523 B  525 A  532 A  534 A  541 B  546 B            
+
+4241342 NITIN CHAVAN                     101 081  A2   002 091  A1** 041 085  A2   086 081  A2** 087 092  A1   QUAL  9.4 
+                    511 A  512 A  513 A  514 B  515 A  521 A  522 A  523 A  525 A  532 A  534 A  541 A  546 B            
+
+4241343 SHREYANGI PRASAD                 101 092  A1   002 097  A1   041 097  A1   086 093  A1   087 096  A1   QUAL 10.0 
+                    511 A  512 A  513 A  514 B  515 A  521 A  522 A  523 A  525 A  532 A  534 A  541 B  546 A            
+
+4241344 VIRAJ HAJARE                     101 071  B1** 122 072  B1   041 062  B2   086 061  B2** 087 079  B1   QUAL  7.6 
+                    511 A  512 A  513 A  514 A  515 B  521 A  522 A  523 A  525 A  532 A  534 A  541 A  546 A            
+
+4241345 ANURAG SAMOTA                    101 081  A2** 002 091  A1   041 090  A2   086 071  B1** 087 085  A2   QUAL  9.0 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 A  523 A  525 A  532 A  534 A  541 A  546 B            
+
+4241346 HRISHIKESH SAWANT                101 063  B2   002 071  B1   041 061  B2** 086 061  B2   087 071  B1** QUAL  7.4 
+                    511 A  512 A  513 A  514 B  515 B  521 A  522 A  523 B  525 A  532 A  534 A  541 A  546 B            
+
+4241347 T NANDINI PRASAD                 101 081  A2** 122 084  A2   041 074  B1   086 071  B1** 087 076  B1   QUAL  8.4 
+                    511 A  512 A  513 A  514 B  515 A  521 A  522 A  523 A  525 A  532 A  534 A  541 B  546 B            
+
+4241348 PRATISH SHINDE                   101 071  B1** 002 081  A2   041 061  B2** 086 064  B2   087 078  B1   QUAL  7.8 
+                    511 A  512 A  513 A  514 B  515 A  521 A  522 A  523 A  525 A  532 A  534 A  541 A  546 B            
+
+4241349 SIMRAN JANBANDHU                 101 081  A2** 002 091  A1   041 086  A2   086 083  A2   087 081  A2** QUAL  9.2 
+                    511 A  512 A  513 A  514 B  515 A  521 A  522 A  523 A  525 A  532 A  534 A  541 A  546 A            
+
+4241350 ANIRUDH SAMPATH KUMAR            101 081  A2** 122 081  A2** 041 095  A1   086 083  A2   087 077  B1   QUAL  9.0 
+                    511 A  512 A  513 A  514 A  515 B  521 A  522 A  523 A  525 A  532 A  534 A  541 B  546 B            
+
+4241351 BHAGYASHREE CHANDRAKANT PARAB    101 081  A2** 002 081  A2   041 081  A2** 086 071  B1   087 088  A2   QUAL  8.8 
+                    511 B  512 A  513 A  514 A  515 A  521 A  522 A  523 A  525 A  532 A  534 A  541 B  546 A            
+
+4241352 MEHUL KUMAR                      101 081  A2   002 091  A1** 041 095  A1   086 091  A1** 087 095  A1   QUAL  9.8 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 A  523 A  525 A  532 A  534 A  541 A  546 A            
+
+4241353 ROHIT KUMARAVELAN                101 091  A1** 002 091  A1   041 091  A1   086 082  A2   087 091  A1** QUAL  9.8 
+                    511 A  512 A  513 A  514 B  515 B  521 A  522 A  523 A  525 A  532 A  534 A  541 B  546 B            
+
+4241354 VENKATSAI MURALIDHARAN           101 081  A2** 122 081  A2** 041 082  A2   086 082  A2   087 092  A1   QUAL  9.2 
+                    511 A  512 A  513 A  514 B  515 A  521 A  522 A  523 A  525 A  532 A  534 A  541 B  546 B            
+
+4241355 VINEETA KHANAPURI                101 084  A2   122 083  A2   041 081  A2** 086 081  A2** 087 088  A2   QUAL  9.0 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 A  523 A  525 A  532 A  534 A  541 B  546 A            
+
+4241356 ASHISH PARAB                     101 056  C1   002 061  B2** 041 052  C1   086 061  B2** 087 070  B2   QUAL  6.6 
+                    511 A  512 A  513 A  514 B  515 B  521 A  522 A  523 B  525 A  532 A  534 A  541 A  546 B            
+
+CBSE-SECONDARY SCHOOL EXAMINATION 2014          Region:CHENNAI                    Date: 26/05/2014    Pg: 8
+
+SCHOOL : 76013 KENDRIYA VIDYALAYA ADYAR CHENNAI TN   
+
+ROLL NO CANDIDATE NAME.................  SUB MRK  GRD  SUB MRK  GRD  SUB MRK  GRD  SUB MRK  GRD  SUB MRK  GRD  RSLT CGPA
+                    Part IA............  Part 2A..2C   Part 2D...................  Part 3A...... Part 3B...... ADDL.SUB
+
+4241357 EMMANUVEL JOSEPH AJU             101 091  A1** 122 091  A1** 041 092  A1   086 091  A1   087 091  A1   QUAL 10.0 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 A  523 A  525 A  532 A  534 A  541 B  546 A            
+
+4241358 YASH VORA                        101 081  A2** 122 081  A2   041 091  A1** 086 083  A2   087 085  A2   QUAL  9.2 
+                    511 A  512 A  513 A  514 B  515 A  521 A  522 A  523 A  525 A  532 A  534 A  541 B  546 B            
+
+4241359 MARELLA VENKATASAI ADITYA        101 094  A1   002 091  A1** 041 086  A2   086 086  A2   087 091  A1** QUAL  9.6 
+                    511 A  512 A  513 A  514 B  515 A  521 A  522 A  523 A  525 A  532 A  534 A  541 B  546 A            
+
+4241360 ADITYA BAKSHI                    101 088  A2   002 087  A2   041 061  B2** 086 071  B1** 087 085  A2   QUAL  8.4 
+                    511 B  512 A  513 A  514 A  515 A  521 A  522 B  523 B  525 A  532 A  534 A  541 B  546 A            
+
+4241361 SHREYA GOEL                      101 091  A1** 002 093  A1   041 094  A1   086 091  A1   087 093  A1   QUAL 10.0 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 B  523 A  525 A  532 A  534 A  541 B  546 A            
+
+4241362 HIMANSHU JOSHI                   002 089  A2   101 078  B1   041 073  B1   086 071  B1** 087 081  A2** QUAL  8.4 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 B  523 A  525 A  532 A  534 A  541 B  546 A            
+
+4241363 ANSHIKA PATRA                    002 092  A1   101 085  A2   041 091  A1** 086 091  A1** 087 095  A1   QUAL  9.8 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 B  523 A  525 A  532 A  534 A  541 B  546 A            
+
+4241364 DEEPAK KUMAR                     101 059  C1   002 060  C1   041 051  C1** 086 051  C1** 087 063  B2   QUAL  6.2 
+                    511 A  512 B  513 A  514 B  515 A  521 A  522 A  523 B  525 A  532 B  534 A  541 B  546 A            
+
+4241365 AKSHAY KUMAR                     101 066  B2   002 061  B2   041 051  C1** 086 051  C1** 087 056  C1   QUAL  6.4 
+                    511 B  512 A  513 A  514 A  515 B  521 A  522 A  523 B  525 A  532 B  534 A  541 B  546 A            
+
+4241366 S ARDHRA                         101 094  A1   122 098  A1   041 094  A1   086 092  A1   087 096  A1   QUAL 10.0 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 A  523 A  525 A  532 A  534 A  541 B  546 A            
+
+4241367 PREET VERMA                      101 067  B2   002 069  B2   041 051  C1** 086 051  C1** 087 057  C1   QUAL  6.4 
+                    511 B  512 A  513 A  514 B  515 B  521 A  522 A  523 B  525 A  532 A  534 A  541 A  546 A            
+
+4241368 SANIYA WAGHMARE                  101 087  A2   002 091  A1** 041 083  A2   086 081  A2** 087 089  A2   QUAL  9.2 
+                    511 A  512 A  513 A  514 B  515 A  521 A  522 A  523 A  525 A  532 A  534 A  541 A  546 A            
+
+4241369 MANISHA MANOJ SOLANKI            101 062  B2   122 072  B1   041 051  C1** 086 061  B2** 087 065  B2   QUAL  7.0 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 B  523 B  525 A  532 A  534 A  541 B  546 A            
+
+4241370 SHRADDHA KAMBLE                  101 061  B2   002 054  C1   041 051  C1** 086 051  C1** 087 058  C1   QUAL  6.2 
+                    511 B  512 B  513 A  514 B  515 A  521 B  522 B  523 B  525 A  532 B  534 B  541 B  546 A            
+
+4241371 CHAITALI VISHWAS PALE            101 062  B2   122 071  B1** 041 064  B2   086 061  B2** 087 069  B2   QUAL  7.2 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 B  523 B  525 A  532 A  534 A  541 B  546 A            
+
+4241372 HIMANSHU H SOLANKI               101 051  C1** 122 058  C1   041 042  C2   086 052  C1   087 051  C1** QUAL  5.8 
+                    511 B  512 B  513 B  514 B  515 A  521 A  522 A  523 B  525 A  532 B  534 B  541 A  546 A            
+
+4241373 PRIYA MALHOTRA                   101 071  B1** 002 065  B2   041 071  B1** 086 075  B1   087 065  B2   QUAL  7.6 
+                    511 B  512 A  513 A  514 A  515 A  521 A  522 A  523 B  525 A  532 A  534 A  541 A  546 A            
+
+4241374 APRAJITA MAHTO                   101 071  B1** 002 084  A2   041 071  B1** 086 069  B2   087 083  A2   QUAL  8.2 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 A  523 A  525 A  532 A  534 A  541 B  546 B            
+
+4241375 SHIVANI BOYWAR                   101 051  C1   002 061  B2   041 051  C1** 086 061  B2** 087 067  B2   QUAL  6.6 
+                    511 B  512 B  513 A  514 B  515 A  521 A  522 A  523 B  525 A  532 B  534 A  541 B  546 B            
+
+4241376 ADITI BISWAS                     101 091  A1** 002 094  A1   041 096  A1   086 092  A1   087 097  A1   QUAL 10.0 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 A  523 A  525 A  532 A  534 A  541 B  546 A            
+
+4241377 ANUSHA ACHARYA                   101 097  A1   002 093  A1   041 097  A1   086 093  A1   087 096  A1   QUAL 10.0 
+                    511 A  512 A  513 A  514 A  515 A  521 A  522 A  523 A  525 A  532 A  534 A  541 A  546 A            
+
+
+Abbreviations: AB   - Absent in the Subject   ABST - Absent for all subjects
+               QUAL - Eligible for Qualifying Certificate
+               EIOP - Eligible for Improvement of Performance
+
+Disclaimer : Neither NIC nor CBSE is responsible for any inadvertent error that may have crept in the results
+being sent through E-mail.  The results sent through E-mail are for   immediate information to the examinees.
+These cannot be treated as original mark sheets.  Original mark sheets have been issued by the Board separately
